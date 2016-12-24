@@ -10,6 +10,7 @@
     "babel-polyfill": "6.20.0",
     "easystarjs": "0.3.1",
     "fs-extra": "1.0.0",
-    "phaser": "2.6.2"
+    "phaser": "2.6.2",
+    "taser.js": "^0.0.1"
   }
 }
