@@ -1,9 +1,9 @@
 {
-  "name": "taser-test",
+  "name": "taser-starter",
   "version": "0.0.1",
   "description": "Taser Project Installation Wizard",
   "keywords": [],
-  "author": "markus-wi",
+  "author": "markwi",
   "license": "ISC",
   "dependencies": {
     "alertify.js": "1.0.12",
