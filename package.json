@@ -1,6 +1,6 @@
 {
   "name": "taser-starter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Taser Project Installation Wizard",
   "keywords": [],
   "author": "markwi",
@@ -11,6 +11,6 @@
     "easystarjs": "0.3.1",
     "fs-extra": "1.0.0",
     "phaser": "2.6.2",
-    "taser.js": "^0.0.1"
+    "taser.js": "0.0.2"
   }
 }
