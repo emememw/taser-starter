@@ -1,5 +1,5 @@
 import BabelPolyFill from "babel-polyfill";
-import Taser from "taser"
+import Taser from "taser.js"
 import Game from "core/game";
 
 const App = {};

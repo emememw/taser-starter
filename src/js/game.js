@@ -1,4 +1,4 @@
-import Taser from "taser";
+import Taser from "taser.js";
 
 class Game extends Taser.Game {
 	constructor() {
